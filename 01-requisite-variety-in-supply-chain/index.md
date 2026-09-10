@@ -38,6 +38,12 @@ The supply chain world is a brutal place where professionals continuously fight 
 - **increase — Increase what you can absorb.** Let the edge of your organisation decide or get finer details of operations through more robust data models. Ensure there're more options to act, execute the workflow loops faster, use AI and [agentic solutions](https://www.automatiqa.io/oodaa/) to multiply response velocity.
 - **accept — Accept what is left.** It's a conscious organisational choice by design as it should get an assigned price or cost, and clear ownership allocation.
 
+> **Formula**
+>
+> **V<sub>r</sub> &ge; V<sub>e</sub>**
+>
+> Where V<sub>e</sub> (environment) represents the number of distinct situations the operation faces. At the same time, V<sub>r</sub> (response) is the number of distinct actions the supply chain can take at each time step. Operational control fails whenever V<sub>r</sub> is smaller than V<sub>e</sub>. I've adapted it from the works of W. Ross Ashby on [cybernetics](https://en.wikipedia.org/wiki/Variety_%28cybernetics%29).
+
 ## Test
 
 ### Which layer is short?
