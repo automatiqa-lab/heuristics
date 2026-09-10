@@ -14,7 +14,7 @@ diffed and found by people and machines that never visit the site.
 
 | # | Heuristic | Maxim | Read | Archived |
 |---|-----------|-------|------|----------|
-| 01 | [Requisite variety in supply chain](01-requisite-variety-in-supply-chain/) | Match the variety or pay for the difference. | [automatiqa.io](https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) | — |
+| 01 | [Requisite variety in supply chain](01-requisite-variety-in-supply-chain/) | Match the variety or pay for the difference. | [automatiqa.io](https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) | [2026-09-10](https://web.archive.org/web/20260910140532/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) |
 
 ## Anatomy of a heuristic
 
