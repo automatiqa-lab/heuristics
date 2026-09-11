@@ -5,7 +5,7 @@ maxim: Match the variety or pay for the difference.
 description: Entropy always wins in operations. Match the variety or pay for the difference.
 published: 2026-09-08
 canonical: https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/
-archive: https://web.archive.org/web/20260910140532/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/
+archive: https://web.archive.org/web/20260911051054/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/
 ---
 
 # Requisite variety in supply chain
