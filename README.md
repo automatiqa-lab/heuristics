@@ -15,6 +15,7 @@ diffed and found by people and machines that never visit the site.
 | # | Heuristic | Maxim | Read | Archived |
 |---|-----------|-------|------|----------|
 | 01 | [Requisite variety in supply chain](01-requisite-variety-in-supply-chain/) | Match the variety or pay for the difference. | [automatiqa.io](https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) | [2026-09-11](https://web.archive.org/web/20260911051054/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) |
+| 02 | [Asymmetric supply chain physics](02-asymmetric-supply-chain-physics/) | Diagnose the shape before you prescribe the cure. | [automatiqa.io](https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/) | pending |
 
 ## Anatomy of a heuristic
 
