@@ -5,6 +5,7 @@ maxim: Diagnose the shape before you prescribe the cure.
 description: Symmetric vs asymmetric supply chains. Diagnose the shape before you prescribe the cure.
 published: 2026-09-16
 canonical: https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/
+archive: https://web.archive.org/web/20260916090419/https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/
 ---
 
 # Asymmetric supply chain physics
