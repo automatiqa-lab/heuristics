@@ -48,3 +48,5 @@ The lab marks content a model generated and deliberately does not mark content a
 labelling everything would misstate provenance and train readers to ignore the label. That
 policy, and the per-project classifications it applies to, are on the
 [org profile](https://github.com/automatiqa-lab).
+
+The argument these projects sit under: [The Intelligent Orchestration Manifesto](https://www.automatiqa.io/manifesto/).
