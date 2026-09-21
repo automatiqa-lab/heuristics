@@ -2,10 +2,10 @@
 number: "01"
 title: Requisite variety in supply chain
 maxim: Match the variety or pay for the difference.
-description: Entropy always wins in operations. Match the variety or pay for the difference.
+description: Any operation can absorb only as much variation as it has responses for. The Variety Shortfall Test finds where it loses.
 published: 2026-09-08
 canonical: https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/
-archive: https://web.archive.org/web/20260911051054/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/
+archive: https://web.archive.org/web/20260921070950/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/
 ---
 
 # Requisite variety in supply chain
@@ -40,11 +40,11 @@ The supply chain world is a brutal place where professionals continuously fight 
 
 > **Formula**
 >
-> **V<sub>r</sub> &ge; V<sub>e</sub>**
+> **V<sub>r</sub> &ge; V<sub>e</sub>** — Ashby's law
 >
 > Where V<sub>e</sub> (environment) represents the number of distinct situations the operation faces. At the same time, V<sub>r</sub> (response) is the number of distinct actions the supply chain can take at each time step. Operational control fails whenever V<sub>r</sub> is smaller than V<sub>e</sub>. I've adapted it from the works of W. Ross Ashby on [cybernetics](https://en.wikipedia.org/wiki/Variety_%28cybernetics%29).
 
-## Test
+## The Variety Shortfall Test
 
 ### Which layer is short?
 
