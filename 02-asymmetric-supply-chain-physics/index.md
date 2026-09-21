@@ -2,10 +2,10 @@
 number: "02"
 title: Asymmetric supply chain physics
 maxim: Diagnose the shape before you prescribe the cure.
-description: Symmetric vs asymmetric supply chains. Diagnose the shape before you prescribe the cure.
+description: Symmetric vs asymmetric supply chains, and the Outside Variance Ratio that tells you which one you're in.
 published: 2026-09-16
 canonical: https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/
-archive: https://web.archive.org/web/20260916090419/https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/
+archive: https://web.archive.org/web/20260921065952/https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/
 ---
 
 # Asymmetric supply chain physics
@@ -36,6 +36,8 @@ To make things even more challenging, asymmetric operations often manifest in tw
 
 As a result, when practitioners approach asymmetric realities with a symmetric toolkit and playbooks, whether standard contracts, software, or process excellence, it feels like measuring temperature with a ruler.
 
+I'm certainly not the first one seeking a mathematical approach to the operational problems. The authors of ["Factory Physics"](https://en.wikipedia.org/wiki/Factory_Physics) (Wallace Hopp and Mark Spearman) have provided a great portion of the evidence that various processes follow predictable rules of behaviour and that these can be described using algorithmic models. Where "Factory Physics" ends, my empirical research begins.
+
 ## The rule
 
 ### One question facing three architectures
@@ -50,13 +52,13 @@ As a result, when practitioners approach asymmetric realities with a symmetric t
 
   At the same time, the companies I worked for ran on hybrid physics: asymmetries existed upstream, and they executed symmetric flows downstream. Normally, this starts creating process contradictions because the operating model gets stretched across both ends of the spectrum and fits into neither.
 
-> **x = σ²(outside) / σ²(total)**
+> **OVR = σ²(outside) / σ²(total)** — the Outside Variance Ratio
 >
 > The situation discussed in previous parts of this heuristic can also be expressed mathematically. The simplest equation that comes to mind is the formula stated above. σ² (sigma squared) refers to the variance at a node. It covers variables such as order volume, lead time, yields, and other relevant factors. σ² (total) is the total variance faced across operations. σ² (outside) represents the variance attributable to factors outside the company's walls.
 >
-> So, what is the conclusion? When we calculate x, it shows the share of variance driven by factors outside the company's walls. It can be weather and climate issues, price and cost volatility, new regulations, and other factors. Low x indicates symmetric physics, while asymmetries occur at higher x.
+> So, what is the conclusion? When we calculate OVR, it shows the share of variance driven by factors outside the company's walls. It can be weather and climate issues, price and cost volatility, new regulations, and other factors. Low OVR indicates symmetric physics, while asymmetries occur at higher OVR.
 >
-> [Heuristic 01](../01-requisite-variety-in-supply-chain/) requires V(response) ≥ V(environment). The current one defines the source of V(environment). x is the field estimate behind the third test question that follows, and it is ordinal in practice - no need to measure it to two decimals.
+> [Heuristic 01](../01-requisite-variety-in-supply-chain/) requires V(response) ≥ V(environment). The current one defines the source of V(environment). OVR is the field estimate behind the third test question that follows, and it is ordinal in practice - no need to measure it to two decimals.
 
 ## Test
 
