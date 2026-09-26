@@ -5,7 +5,7 @@ maxim: Match the variety or pay for the difference.
 description: Any operation can absorb only as much variation as it has responses for. The Variety Shortfall Test finds where it loses.
 published: 2026-09-08
 canonical: https://www.sidorecs.com/heuristics/01-requisite-variety-in-supply-chain/
-archive: https://web.archive.org/web/20260921070950/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/
+archive: https://web.archive.org/web/20260926092147/https://www.sidorecs.com/heuristics/01-requisite-variety-in-supply-chain/
 ---
 
 # Requisite variety in supply chain
