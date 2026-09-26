@@ -1,12 +1,12 @@
 # Heuristics
 
-Rules of thumb for supply chain and operations, from [Automatiqa Lab](https://www.automatiqa.io).
+Rules of thumb for supply chain and operations, by [Aleks Sidorecs](https://www.sidorecs.com/about/).
 
 Most operational advice is either a war story you can't reuse or a framework with no edges.
 A heuristic sits between the two: one rule, stated plainly enough to argue with, with a test
 you can run on Monday and a case where it actually cost or saved something.
 
-The series lives at **[automatiqa.io/heuristics](https://www.automatiqa.io/heuristics/)**.
+The series lives at **[sidorecs.com/heuristics](https://www.sidorecs.com/heuristics/)**. The tools that test these rules are built at [Automatiqa Lab](https://www.automatiqa.io).
 This repo is the readable mirror — the same writing as markdown, so it can be forked, quoted,
 diffed and found by people and machines that never visit the site.
 
@@ -14,8 +14,8 @@ diffed and found by people and machines that never visit the site.
 
 | # | Heuristic | Maxim | Read | Archived |
 |---|-----------|-------|------|----------|
-| 01 | [Requisite variety in supply chain](01-requisite-variety-in-supply-chain/) | Match the variety or pay for the difference. | [automatiqa.io](https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) | [2026-09-21](https://web.archive.org/web/20260921070950/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) |
-| 02 | [Asymmetric supply chain physics](02-asymmetric-supply-chain-physics/) | Diagnose the shape before you prescribe the cure. | [automatiqa.io](https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/) | [2026-09-21](https://web.archive.org/web/20260921065952/https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/) |
+| 01 | [Requisite variety in supply chain](01-requisite-variety-in-supply-chain/) | Match the variety or pay for the difference. | [sidorecs.com](https://www.sidorecs.com/heuristics/01-requisite-variety-in-supply-chain/) | [2026-09-21](https://web.archive.org/web/20260921070950/https://www.automatiqa.io/heuristics/01-requisite-variety-in-supply-chain/) |
+| 02 | [Asymmetric supply chain physics](02-asymmetric-supply-chain-physics/) | Diagnose the shape before you prescribe the cure. | [sidorecs.com](https://www.sidorecs.com/heuristics/02-asymmetric-supply-chain-physics/) | [2026-09-26](https://web.archive.org/web/20260926091332/https://www.sidorecs.com/heuristics/02-asymmetric-supply-chain-physics/) |
 
 ## Anatomy of a heuristic
 

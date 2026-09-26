@@ -4,13 +4,13 @@ title: Asymmetric supply chain physics
 maxim: Diagnose the shape before you prescribe the cure.
 description: Symmetric vs asymmetric supply chains, and the Outside Variance Ratio that tells you which one you're in.
 published: 2026-09-16
-canonical: https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/
-archive: https://web.archive.org/web/20260921065952/https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/
+canonical: https://www.sidorecs.com/heuristics/02-asymmetric-supply-chain-physics/
+archive: https://web.archive.org/web/20260926091332/https://www.sidorecs.com/heuristics/02-asymmetric-supply-chain-physics/
 ---
 
 # Asymmetric supply chain physics
 
-*Heuristic 02. Published 16 September 2026 on [automatiqa.io](https://www.automatiqa.io/heuristics/02-asymmetric-supply-chain-physics/).*
+*Heuristic 02. Published 16 September 2026 on [sidorecs.com](https://www.sidorecs.com/heuristics/02-asymmetric-supply-chain-physics/).*
 
 ![Asymmetric supply chain physics](asymmetric-supply-chain-physics.png)
 
